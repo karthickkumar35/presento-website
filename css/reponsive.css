@@ -1,0 +1,41 @@
+@media (max-width:576px){
+	.head-icon a{
+		font-size:12px;
+	}
+	.nest-item .nav-item .nav-link{
+		padding:10px;
+	}	
+	.nest-item .nav-item .nav-link iconify-icon {
+		font-size:30px;
+	}
+	
+}
+@media (max-width:768px){
+	.banner h1{
+		font-size:28px;
+		line-height:32px;
+	}
+	.banner p{
+		font-size:18px;
+		line-height:22px;
+	}
+	.about h2{
+		font-size:30px;
+	}
+	.client-logo{
+		min-height:80px;
+	}
+}
+@media (max-width:992px){
+	.happy .happy-items{
+		margin-top:22px
+	}
+	.nest-item .nav-item .nav-link{
+		padding:20px;
+		display:flex;
+		justify-content:center;
+	}
+	.nest-item .nav-item .nav-link iconify-icon {
+		font-size:35px;
+		margin-right:0;
+	}
